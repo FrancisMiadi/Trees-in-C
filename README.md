@@ -13,3 +13,8 @@ This is a university project for building a Student Management System using a Bi
 - **File Persistence:** Save student records to *students.data* and automatically load them on startup.
 - **User-Friendly Menu:** The system provides an interactive menu for ease of use.
 
+## 🌐 Contact
+**For any inquiries, reach out via:**
+- **Email:** *francismiadi0@gmial.com*
+- **GitHub:** *FrancisMiadi*
+
